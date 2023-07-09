@@ -3,10 +3,10 @@ position: 8,-43
 ---
 Dear Detective, the Alfred family requires your assistance in identifying the true killer. 
 Please search the various rooms for clues and observe the reactions of the characters to determine their involvement.
-
--> Gosh!
--> Incredible!
--> I'm amazed!
+Sir, what do you think about the number of perpetrators?
+-> One
+-> Two
+-> Three
 
 Anyway, time to get writing!
 ===
