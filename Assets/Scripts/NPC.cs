@@ -14,7 +14,7 @@ public class NPC : MonoBehaviour
         hiPanel.SetActive(true);
 
         // Call the HidePanel method after 4 seconds
-        Invoke("HidePanel", 4f);
+        Invoke("HidePanel", 8f);
 
     }
 
