@@ -34,6 +34,9 @@ position: 10,-43
 <<if $truth == 2>>
 Sir, I think you have passed the test. In the darkness, the truth will eventually surface. 
 The killer got justice.——————Good Ending
+<<elseif $truth == 1>>
+Sir, is often as unpredictable as a mist. Try to find answers, but sometimes the clues are intricate and the truth is blurred.
+Perhaps, there is a secret hidden in this story that can never be solved.——————Normal Ending
 <<else>>
 Sir. The answer is brilliant… It’s.. It’s.. alright. No worries about it.——————Bad Ending
 <<endif>>
