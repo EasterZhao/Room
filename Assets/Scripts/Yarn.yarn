@@ -5,6 +5,7 @@ position: 8,-43
 <<set $truth to 0>>
 Dear Detective, the Alfred family requires your assistance in identifying the true killer. 
 Please search the various rooms for clues and observe the reactions of the characters to determine their involvement.
+
 Sir, what do you think about the number of perpetrators?
 -> One
    <<jump Mid>>
