@@ -676,8 +676,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "> A DNA result book?\r\n> \u201CEDNS Company: you have no blood relationship
-    with the sample.\u201D\r\n> Wired\u2026 Except Lily is not his biological daughter?\r\n>
-    Lily: Yes\u2026 I just know. \r\n> That makes sense.\r\n"
+    with the sample.\u201D\r\n> Wired\u2026 Except Lily (Daughter) is not his biological
+    daughter?\r\n> Lily: Yes\u2026 I just know. \r\n> That makes sense.\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6605,39 +6605,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '> It''s a... CCTV? Bleedy hell. I''m so dumb.
-
-    > (Open the CCTV)
-
-    >
-    > The dead man is sleeping.
-
-    > *Jaspher and Monica open the door together
-    and enter the room.
-
-    > *They slowly walk to Alfred''s bedside and Monica
-    takes a bottle out of her pocket.
-
-    > *Monica poured out the contents of
-    the bottle and tried to feed it to Alfred
-
-    > *Alfred was awakened and he
-    jumped up from the bed and ran for the door
-
-    > *Jaspher pulled a gun out
-    of his trousers and pulled the trigger at the back of Alfred''s head
-
-    >
-    > They left the room.
-
-    > *Two hours later... *
-
-    > *Lily opened the
-    door and backed out screaming.
-
-    > Okay, I know.
-
-'
+  m_text: "> It's a... CCTV? Bleedy hell. I'm so dumb.\r\n> (Open the CCTV)\r\n>
+    > The dead man is sleeping.\r\n> *Jaspher (Business Partner) and Monica (Wife)
+    open the door together and enter the room.\r\n> *They slowly walk to Alfred's
+    bedside and Monica takes a bottle out of her pocket.\r\n> *Monica poured out
+    the contents of the bottle and tried to feed it to Alfred\r\n> *Alfred was awakened
+    and he jumped up from the bed and ran for the door\r\n> *Jaspher pulled a gun
+    out of his trousers and pulled the trigger at the back of Alfred's head\r\n>
+    > They left the room.\r\n> *Two hours later... *\r\n> *Lily (Daughter) opened
+    the door and backed out screaming.\r\n> Okay, I know.\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -8914,9 +8890,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "> Huh, A love letter. It\u2019s ...\r\n> from Monica to Jaspher?\r\n>
-    Monica(Wife): We.. We are just friends! We are preparing a party for him!\r\n>
-    John (Me): Ha.\r\n"
+  m_text: "> Huh, A love letter. It\u2019s ...\r\n> from Monica (Wife) to Jaspher
+    (Partner)?\r\n> Monica(Wife): We.. We are just friends! We are preparing a party
+    for him!\r\n> John (Me): Ha.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
